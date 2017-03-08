@@ -1,0 +1,30 @@
+.artist-header{
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: solid 1px #333;
+}
+
+.artist-thumb{
+  width: 80px;
+  height: auto;
+  float: left;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+.artist-albums .well{
+  margin-bottom: 20px;
+  overflow: auto;
+  min-height: 400px;
+}
+
+.album{
+  text-align: center;
+  background: #003542;
+  padding: 10px 20px;
+  border: #66 1px solid;
+}
+
+.album-thumb{
+  width: 100%;
+}
